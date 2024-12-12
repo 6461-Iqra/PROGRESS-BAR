@@ -79,7 +79,7 @@ h1{
     content: "";
     width: 150px;
     height: 150px;
-    border: 15px solid pink;
+    border: 15px solid white;
     border-radius: 50%;
     border-top-color: purple;
     animation: loading 0.7s ease infinite;
